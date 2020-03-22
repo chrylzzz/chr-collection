@@ -2,8 +2,6 @@ package com.chryl.collection;
 
 import java.util.*;
 
-import static sun.jvm.hotspot.oops.CellTypeState.value;
-
 /**
  * Created by Chr.yl on 2020/3/21.
  *
