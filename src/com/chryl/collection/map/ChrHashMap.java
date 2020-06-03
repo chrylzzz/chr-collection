@@ -1,4 +1,4 @@
-package com.chryl.collection;
+package com.chryl.collection.map;
 
 import java.util.*;
 
